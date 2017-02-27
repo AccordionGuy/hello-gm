@@ -1,0 +1,13 @@
+{
+  "name":"Hello World",
+  "id":"93919357",
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "index.html",
+  "icon": "Icon.png",
+  "developer": "Joey deVilla",
+  "category": "General",
+  "type": "Local",
+  "description": "Generated on 2/26/2017, 9:14:08 PM by ngi-sdk version "
+}
