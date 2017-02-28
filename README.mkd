@@ -1,0 +1,10 @@
+# A simple speedometer app for GM’s Next Generation Interface (NGI) in-car infotainment consoles
+
+![Screenshot of speedometer app in emulator](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/02/gm-ngi-speedometer-app.jpg)
+
+This is a very simple app that builds on [Laurie Sidwell’s tutorial app for GM’s Next Generation Interface SDK](https://developer.gm.com/ngi/tutorial) that walks the reader through the process of building a speedometer application. This app adds a switch that allows the user to toggle between having the display show speed in miles per hour (the default) or kilometers per hour.
+
+## Credit where credit is due
+- The basis for this code comes from the [GM NGI tutorial written by Laurie Sidwell](https://developer.gm.com/ngi/tutorial).
+- The “let’s make CSS do the heavy lifting” toggle switch comes from [W3schools.com’s toggle switch how-to](https://www.w3schools.com/howto/howto_css_switch.asp).
+- The inspiration for throwing together this project was the Tampa edition of [GM’s “Makers Hustle Harder” hackathon](http://www.globalnerdy.com/2017/02/26/try-out-gms-in-car-infotainment-api-at-the-makers-hustle-harder-hackathon-in-tampa-this-week/) for their NGI SDK, which took place in Tampa on the week of February 27, 2017.
