@@ -1,5 +1,3 @@
-// Your code goes here
-
 var useMetricUnits = true
 changeUnits(document.getElementById('unitSwitch'))
 
